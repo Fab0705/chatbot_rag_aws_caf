@@ -1,0 +1,6 @@
+﻿pregunta,respuesta_observada,ids_fragmentos,scores,k,observaciones
+[Pregunta respondible 1 del PDF AWS CAF],,,,5,Completar tras ejecutar la app
+[Pregunta respondible 2 del PDF AWS CAF],,,,5,Completar tras ejecutar la app
+[Pregunta respondible 3 del PDF AWS CAF],,,,5,Completar tras ejecutar la app
+[Pregunta no respondible 1],,,,5,Verificar que el chatbot indique que no hay información suficiente
+[Pregunta no respondible 2],,,,5,Verificar que el chatbot indique que no hay información suficiente
